@@ -1,5 +1,5 @@
 # OAKKITTIPOT27.github.io  
-![alt text for screen readers](IMG_7291 (2).jpg "Text to show on mouseover")
+![alt text for screen readers]([IMG_7291 (2).jpg](https://github.com/OAKKITTIPOT27/OAKKITTIPOT27.github.io/blob/main/IMG_7291%20(2).png?raw=true) "Text to show on mouseover")
 * Full name(Eng) : Kittipot Kwanyuen  
 * Full name(Th) :  กิตติพศ ขวัญยืน  
 * Nickvname : โอ๊ค  
